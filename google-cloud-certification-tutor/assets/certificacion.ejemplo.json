@@ -1,0 +1,23 @@
+{
+  "codigo": "PCSE",
+  "nombre": "Professional Cloud Security Engineer",
+  "proveedor": "Google Cloud",
+  "nivel": "professional",
+  "url_guia": "https://cloud.google.com/learn/certification/cloud-security-engineer",
+  "idioma_preguntas": "en",
+  "idioma_feedback": "es",
+  "fecha_examen": null,
+  "examen": {
+    "preguntas": 50,
+    "duracion_min": 120,
+    "umbral_pct": 70,
+    "tipos": ["single", "multi"]
+  },
+  "dominios": [
+    {"cod": "S1", "nombre": "Configuring access", "peso": 25},
+    {"cod": "S2", "nombre": "Securing communications & boundary protection", "peso": 22},
+    {"cod": "S3", "nombre": "Ensuring data protection", "peso": 23},
+    {"cod": "S4", "nombre": "Managing operations", "peso": 19},
+    {"cod": "S5", "nombre": "Supporting compliance requirements", "peso": 11}
+  ]
+}

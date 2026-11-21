@@ -1,0 +1,21 @@
+# --- Datos personales de estudio (NO subir al repo) ---
+# Las plantillas *.example.* sí se versionan para poder arrancar tras un clon.
+progreso/registro.csv
+progreso/dashboard.md
+progreso/estado.md
+preguntas/banco.md
+guia/tips.md
+guia/tips.pdf
+guia/repaso-fallos.md
+guia/repaso-fallos.pdf
+guia/repaso-tips.md
+guia/repaso-tips.pdf
+
+# --- Python ---
+__pycache__/
+*.pyc
+
+# --- Sistema / editores ---
+.DS_Store
+.idea/
+.vscode/
